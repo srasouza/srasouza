@@ -14,7 +14,9 @@ Graduanda em Admnistração | Estudante de Análise de Dados e construindo proje
 
 ### Ferramentas
 **Análise e tratamento:**	Python (pandas), Excel (Tabelas Dinâmicas, Power Query básico)
+
 **Visualização e BI:**	Power BI, Google Studio, Plotly/Dash, Matplotlib, Seaborn
+
 **Ambiente:**	Google Colab, Jupyter Notebook, Git/GitHub, Oracle ERP
 
 ### Projetos em destaque
@@ -27,6 +29,7 @@ Análise de 213.451 acidentes com dados abertos da Polícia Rodoviária Federal:
 **👉 [Ver repositório](https://github.com/srasouza/Projeto-Semantix)** 
 
 **📊 [Ver dashboard](https://datastudio.google.com/u/0/reporting/0a51b1b4-4c5e-45ff-a4e9-47a9d459690e)**
+
 
 **Análise de supermercado no Excel**
 
