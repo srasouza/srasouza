@@ -46,4 +46,4 @@ Dashboard interativo com 8 visuais estatísticos criados com scripts Python (dis
 
 ### Vamos conversar?
 
-[LinkedIn](www.linkedin.com/in/meysa-s-2747a1310](https://www.linkedin.com/in/meysa-s-2747a1310))
+[LinkedIn](https://www.linkedin.com/in/meysa-s-2747a1310)
