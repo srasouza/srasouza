@@ -1,6 +1,6 @@
 ## Olá, eu sou a Meysa Souza 👋
 
-Graduanda em Admnistração | Estudante de Análise de Dados e construindo projetos que transformam dados em decisão.
+Graduanda em Administração | Estudante de Análise de Dados | Construindo projetos que transformam dados em decisão.
 
 ### Sobre mim
 
