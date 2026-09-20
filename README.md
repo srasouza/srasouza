@@ -8,14 +8,14 @@ Graduanda em Administração | Estudante de Análise de Dados | Construindo proj
 
 **Objetivo:** estágio ou posição júnior em Análise de Dados e BI, unindo visão de processos e negócio com análise e visualização de dados.
 
-**O que já sei fazer:** tratamento e validação de bases (Python/pandas e Excel), visualização e dashboards (Power BI e Google Studio) e análise estatística exploratória.
+**O que já sei fazer:** tratamento e validação de bases (Python/pandas e Excel), visualização e dashboards (Power BI e Google/Looker Studio) e análise estatística exploratória.
 
 **Como eu trabalho:** pego dados brutos ou desorganizados, limpo, valido e transformo em uma leitura clara do negócio, sempre olhando além do volume. No projeto da PRF, por exemplo, o estado com mais acidentes não era o de maior proporção de acidentes fatais.
 
 ### Ferramentas
 **Análise e tratamento:**	Python (pandas), Excel (Tabelas Dinâmicas, Power Query básico)
 
-**Visualização e BI:**	Power BI, Google Studio, Plotly/Dash, Matplotlib, Seaborn
+**Visualização e BI:**	Power BI, Google/Looker Studio, Plotly/Dash, Matplotlib, Seaborn
 
 **Ambiente:**	Google Colab, Jupyter Notebook, Git/GitHub, Oracle ERP
 
